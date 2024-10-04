@@ -1,0 +1,58 @@
+{
+  "id": "multilocator-test_room",
+  "locators": [
+    {
+      "id": "ble-pd-84FD27EEE4F1",
+      "coordinate": {
+        "x": 6.55605,
+        "y": 5.45006,
+        "z": 0.0
+      },
+      "orientation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    },
+    {
+      "id": "ble-pd-84FD27EEE4FC",
+      "coordinate": {
+        "x": 14.37897,
+        "y": 1.29055,
+        "z": 0.0
+      },
+      "orientation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    },
+    {
+      "id": "ble-pd-84FD27EEE4C0",
+      "coordinate": {
+        "x": 10.71557,
+        "y": 13.27298,
+        "z": 0.0
+      },
+      "orientation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    },
+    {
+      "id": "ble-pd-84FD27EEE501",
+      "coordinate": {
+        "x": 18.53849,
+        "y": 9.11346,
+        "z": 0.0
+      },
+      "orientation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    }
+    
+  ]
+}

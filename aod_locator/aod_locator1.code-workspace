@@ -1,0 +1,53 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"app_config.h": "c",
+			"algorithm": "cpp",
+			"cmath": "cpp",
+			"cstddef": "cpp",
+			"cstdio": "cpp",
+			"cstdlib": "cpp",
+			"cstring": "cpp",
+			"ctime": "cpp",
+			"cwchar": "cpp",
+			"exception": "cpp",
+			"fstream": "cpp",
+			"ios": "cpp",
+			"iosfwd": "cpp",
+			"iostream": "cpp",
+			"istream": "cpp",
+			"limits": "cpp",
+			"map": "cpp",
+			"memory": "cpp",
+			"new": "cpp",
+			"ostream": "cpp",
+			"set": "cpp",
+			"sstream": "cpp",
+			"stdexcept": "cpp",
+			"streambuf": "cpp",
+			"string": "cpp",
+			"system_error": "cpp",
+			"type_traits": "cpp",
+			"typeinfo": "cpp",
+			"utility": "cpp",
+			"vector": "cpp",
+			"xdebug": "cpp",
+			"xfunctional": "cpp",
+			"xiosbase": "cpp",
+			"xlocale": "cpp",
+			"xlocinfo": "cpp",
+			"xlocnum": "cpp",
+			"xmemory": "cpp",
+			"xstddef": "cpp",
+			"xstring": "cpp",
+			"xtr1common": "cpp",
+			"xtree": "cpp",
+			"xutility": "cpp"
+		}
+	}
+}

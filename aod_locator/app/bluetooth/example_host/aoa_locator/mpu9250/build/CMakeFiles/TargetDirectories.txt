@@ -1,0 +1,3 @@
+/home/c606/jieryyyyy/onlyMPU/mpu9250/build/CMakeFiles/rebuild_cache.dir
+/home/c606/jieryyyyy/onlyMPU/mpu9250/build/CMakeFiles/edit_cache.dir
+/home/c606/jieryyyyy/onlyMPU/mpu9250/build/CMakeFiles/onlympu.dir
